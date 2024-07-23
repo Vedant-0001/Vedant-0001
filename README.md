@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-0001&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-0001" /> </p>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Apache Spark**
 
 - 💬 Ask me about **Data Analytics and Data Science**
 
